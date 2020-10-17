@@ -2,6 +2,3 @@ Ottawa
 Vancouver 
 Toronto 
 Calgary 
-Montreal 
-Edmonton 
-Quebec 
